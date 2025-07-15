@@ -14,7 +14,7 @@ The program takes two inputs and generates different startup name variations suc
 - Mixing them for catchy results
 
 ## 🐍 View the Code
-👉 [Click here to open `Day1-StartupNameGenerator.py`](Day1-Startup_Name_Generator/Day1-StartupNameGenerator.py)
+👉 [Click here to open `Day1-StartupNameGenerator.py`](Day1-Startup_Name_Generator/Day1-StartupNameGenerator.py - Visual Studio Code 2025-07-15 06-10-45.mp4)
 
 ## 🖥 Preview
 ![screenshot](Day1-StartupNameGenerator.py - Visual Studio Code 2025-07-15 06-10-45)  
