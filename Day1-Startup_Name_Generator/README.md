@@ -17,7 +17,7 @@ The program takes two inputs and generates different startup name variations suc
 👉 [Click here to open `Day1-StartupNameGenerator.py`](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day1-Startup_Name_Generator/Day1-StartupNameGenerator.py)
 
 ## 🖥 Preview
-![screenshot](Day1-StartupNameGenerator.py - Visual Studio Code 2025-07-15 06-10-45)  
+![screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day1-Startup_Name_Generator/Day1-StartupNameGenerator.py%20-%20Visual%20Studio%20Code%202025-07-15%2006-10-45.mp4)  
 
 ## 📚 What I Learned
 - How to take input from users in Python
