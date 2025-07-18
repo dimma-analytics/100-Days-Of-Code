@@ -12,6 +12,16 @@ A beginner-friendly Python script that generates potential startup names based o
 
 ---
 
+### 🧮 Day 2 – Bolt Driver Profit Calculator  
+[🔗 View Project Folder](./Day2-BoltDriverProfitCalculator)
+
+- **Mini Project:** A profit calculator tailored for Bolt or ride-hailing drivers.
+- **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
+- **What it Does:** Takes inputs like trip distance, fuel cost, commission, etc., and calculates if the trip resulted in a profit or a loss.
+- **What I Learned:** I practiced input handling, arithmetic operations, and made the program more useful for real-life situations like pricing strategies for local drivers.
+
+---
+
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidimma-madu/)
 - [GitHub Portfolio](https://github.com/dimma-analytics)
