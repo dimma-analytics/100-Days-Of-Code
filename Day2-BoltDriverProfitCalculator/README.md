@@ -35,8 +35,8 @@ It calculates:
 ---
 
 ### 🖼️ Preview  
-*(https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day2-BoltDriverProfitCalculator/%E2%97%8F%20Day2-BoltDriverProfitCalculation.py%20-%20Visual%20Studio%20Code%202025-07-18%2015-30-31.mp4)*  
-📸 `screenshot.png`
+📸 [`screenrecord`](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day2-BoltDriverProfitCalculator/%E2%97%8F%20Day2-BoltDriverProfitCalculation.py%20-%20Visual%20Studio%20Code%202025-07-18%2015-30-31.mp4)  
+
 
 ---
 
