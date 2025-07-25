@@ -21,6 +21,13 @@ A beginner-friendly Python script that generates potential startup names based o
 
 ---
 
+### 🩺 [Day 3 – Medical Triage Assistant](./Day3-MedicalTriageAssistant)  
+A logic-based assistant that offers basic health triage based on symptoms like fever, cough, chest pain, and exposure risk.  
+**Tools used:** Python, Input/Output, Control Flow, Logical Operators  
+
+
+---
+
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidimma-madu/)
 - [GitHub Portfolio](https://github.com/dimma-analytics)
