@@ -37,7 +37,7 @@ It then provides a triage recommendation:
 
 ### 🖼️ Preview
 
-![Terminal Output](screenshot.png)
+![Screen recording](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day3-MedicalTriageAssistant/Day3-MedicalTriageAssistant.py%20-%20Visual%20Studio%20Code%202025-07-25%2014-37-38.mp4)
 
 ---
 
