@@ -5,10 +5,18 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ## 📅 Projects by Day
 
-### ✅ [Day 1 – Startup Name Generator](./Day1-Startup_Name_Generator)
-A beginner-friendly Python script that generates potential startup names based on user input.  
-**Tools used:** Basic Python, Input/Output, String concatenation  
-👉 Check the folder for code, notes, and screenshot.
+### 🟣 [Day 4 – Magic 8-Ball](./Day4-Magical8Ball)
+
+- **Mini Project:** A playful fortune-telling program that responds to user questions with randomly selected answers.
+- **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
+- **What it Does:** Prompts the user to ask any yes/no question, then returns a randomized, dramatic answer. Loops until the user chooses to stop.
+- **What I Learned:** Practiced working with lists, random.choice(), string cleanup with `.strip()` and `.lower()`, and designing interactive while loops.
+
+---
+
+### 🩺 [Day 3 – Medical Triage Assistant](./Day3-MedicalTriageAssistant)  
+A logic-based assistant that offers basic health triage based on symptoms like fever, cough, chest pain, and exposure risk.  
+**Tools used:** Python, Input/Output, Control Flow, Logical Operators
 
 ---
 
@@ -20,19 +28,11 @@ A beginner-friendly Python script that generates potential startup names based o
 - **What I Learned:** I practiced input handling, arithmetic operations, and made the program more useful for real-life situations like pricing strategies for local drivers.
 
 ---
-
-### 🩺 [Day 3 – Medical Triage Assistant](./Day3-MedicalTriageAssistant)  
-A logic-based assistant that offers basic health triage based on symptoms like fever, cough, chest pain, and exposure risk.  
-**Tools used:** Python, Input/Output, Control Flow, Logical Operators  
-
----
-
-### 🟣 [Day 4 – Magic 8-Ball](./Day4-Magical8Ball)
-
-- **Mini Project:** A playful fortune-telling program that responds to user questions with randomly selected answers.
-- **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
-- **What it Does:** Prompts the user to ask any yes/no question, then returns a randomized, dramatic answer. Loops until the user chooses to stop.
-- **What I Learned:** Practiced working with lists, random.choice(), string cleanup with `.strip()` and `.lower()`, and designing interactive while loops.
+ 
+### ✅ [Day 1 – Startup Name Generator](./Day1-Startup_Name_Generator)
+A beginner-friendly Python script that generates potential startup names based on user input.  
+**Tools used:** Basic Python, Input/Output, String concatenation  
+👉 Check the folder for code, notes, and screenshot.
 
 ---
 
