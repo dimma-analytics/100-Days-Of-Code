@@ -25,6 +25,14 @@ A beginner-friendly Python script that generates potential startup names based o
 A logic-based assistant that offers basic health triage based on symptoms like fever, cough, chest pain, and exposure risk.  
 **Tools used:** Python, Input/Output, Control Flow, Logical Operators  
 
+---
+
+### 🟣 [Day 4 – Magic 8-Ball](./Day4-Magical8Ball)
+
+- **Mini Project:** A playful fortune-telling program that responds to user questions with randomly selected answers.
+- **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
+- **What it Does:** Prompts the user to ask any yes/no question, then returns a randomized, dramatic answer. Loops until the user chooses to stop.
+- **What I Learned:** Practiced working with lists, random.choice(), string cleanup with `.strip()` and `.lower()`, and designing interactive while loops.
 
 ---
 

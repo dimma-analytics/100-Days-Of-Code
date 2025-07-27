@@ -30,7 +30,7 @@ The program allows the user to:
 ---
 
 ## 📸 Preview  
-![Terminal Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day4-Magical8Ball/Day4-Magic8Ball.py%20-%20Visual%20Studio%20Code%202025-07-27%2007-26-59.mp4)
+![How it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day4-Magical8Ball/Day4-Magic8Ball.py%20-%20Visual%20Studio%20Code%202025-07-27%2007-26-59.mp4)
 
 ---
 
