@@ -40,7 +40,7 @@ This tool gives users two options:
 
 ## 🖼️ Preview
 
-[Click here to view how it works](#)
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day5-StrongPasswordTool/%E2%97%8F%20Day5-StrongPasswordTool.py%20-%20Visual%20Studio%20Code%202025-08-05%2006-15-36.mp4)
 
 ---
 
