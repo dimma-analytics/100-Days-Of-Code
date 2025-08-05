@@ -5,12 +5,23 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ## 📅 Projects by Day
 
+---
+  
+### 🔐 [Day 5 – Password Generator + Evaluator](./Day5-StrongPasswordTool) 
+ 
+  - **Mini Project: A tool that generates secure passwords and checks password strength based on letter, number, and symbol inclusion.
+  - **Tools Used:** Python, random module, string methods
+  - **What it Does:** Generate a secure password, check the strength of an existing one
+  - **What I practiced:** Randomization, string manipulation, user feedback
+
+---
+
 ### 🟣 [Day 4 – Magic 8-Ball](./Day4-Magical8Ball)
 
 - **Mini Project:** A playful fortune-telling program that responds to user questions with randomly selected answers.
 - **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
 - **What it Does:** Prompts the user to ask any yes/no question, then returns a randomized, dramatic answer. Loops until the user chooses to stop.
-- **What I Learned:** Practiced working with lists, random.choice(), string cleanup with `.strip()` and `.lower()`, and designing interactive while loops.
+- **What I practiced:** Practiced working with lists, random.choice(), string cleanup with `.strip()` and `.lower()`, and designing interactive while loops.
 
 ---
 
@@ -25,7 +36,7 @@ A logic-based assistant that offers basic health triage based on symptoms like f
 - **Mini Project:** A profit calculator tailored for Bolt or ride-hailing drivers.
 - **Tools Used:** Python, Visual Studio Code, GitHub Desktop.
 - **What it Does:** Takes inputs like trip distance, fuel cost, commission, etc., and calculates if the trip resulted in a profit or a loss.
-- **What I Learned:** I practiced input handling, arithmetic operations, and made the program more useful for real-life situations like pricing strategies for local drivers.
+- **What I practiced:** I practiced input handling, arithmetic operations, and made the program more useful for real-life situations like pricing strategies for local drivers.
 
 ---
  
