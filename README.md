@@ -9,7 +9,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
   
 ### 🔐 [Day 5 – Password Generator + Evaluator](./Day5-StrongPasswordTool) 
  
-  - **Mini Project: A tool that generates secure passwords and checks password strength based on letter, number, and symbol inclusion.
+  - **Mini Project:** A tool that generates secure passwords and checks password strength based on letter, number, and symbol inclusion.
   - **Tools Used:** Python, random module, string methods
   - **What it Does:** Generate a secure password, check the strength of an existing one
   - **What I practiced:** Randomization, string manipulation, user feedback
