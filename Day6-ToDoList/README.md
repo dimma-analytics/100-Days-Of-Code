@@ -40,12 +40,12 @@ The app gives users 5 menu options:
 
 ## 🖼 Preview
 **Click here to view how it works**  
-_(Insert your screen recording link here after uploading to GitHub or another hosting platform)_
+_(https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day6-ToDoList/Day6-todo.py%20-%20Visual%20Studio%20Code%202025-08-13%2005-15-18.mp4)_
 
 ---
 
 ## 📄 View the Code
-**[Click here to open](./Day6-ToDoList.py)**
+**[Click here to open](./Day6-todo.py)**
 
 ---
 
