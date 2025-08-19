@@ -6,7 +6,16 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 ## 📅 Projects by Day
 
 ---
-  
+
+### 📝 [Day 6 – CLI To-Do List App](./Day6-ToDoList) 
+ 
+  - **Mini Project:** A simple command-line task manager that lets users add, view, mark as done, and delete tasks directly in the terminal.
+  - **Tools Used:** Python, functions, while loops, lists of dictionaries, input validation
+  - **What it Does:** Manage tasks in a continuous menu with clear feedback and error handling
+  - **What I Practiced:** Function structure, loops, `enumerate()`, `.isdigit()`, range checks, and data management in lists of dictionaries
+
+--- 
+
 ### 🔐 [Day 5 – Password Generator + Evaluator](./Day5-StrongPasswordTool) 
  
   - **Mini Project:** A tool that generates secure passwords and checks password strength based on letter, number, and symbol inclusion.
