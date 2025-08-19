@@ -37,11 +37,11 @@ The app gives users 5 menu options:
 
 ## 🖼 Preview
 
-_(Optional: Add a screenshot or video link here if you record a demo later)_
+_[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day7-BudgetTracker/Day7-BudgetTracker.py%20-%20Visual%20Studio%20Code%202025-08-19%2015-40-35.mp4)_
 
 ---
 
 ## 📁 View the Code
 
-[Click here to open the project file](./Day7-budget.py)
+[Click here to view the code](/Day7-BudgetTracker.py)
 
