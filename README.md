@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🔐 [Day 8 – Caesar Cipher Encryptor](./Day8-CaesarCipher)
+
+- **Mini Project:** A Caesar Cipher tool that encrypts or decrypts text using letter shifting logic.
+- **Tools Used:** Python, input/output functions, string manipulation, loops, conditionals
+- **What it Does:** Encrypts or decrypts messages based on user input and a shift number
+- **What I Practiced:** Functions with parameters, keyword arguments, clean reusable logic, modular thinking
+
+---
+
 ### 📊 [Day 7 – Python Budget Tracker App](./Day7-BudgetTracker)
 
 - **Mini Project:** A simple command-line finance tracker that helps users manage income and expenses directly from the terminal.
