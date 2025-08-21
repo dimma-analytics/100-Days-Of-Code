@@ -29,10 +29,8 @@ I built a simple command-line Caesar Cipher app that encrypts or decrypts a mess
 ---
 
 ## 👀 Preview
-Click here to view how it works  
-*(optional: you can update this later with a demo screenshot or GIF)*
-
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day8-CaesarCipher/Day8-CaesarCipher.py%20-%20Visual%20Studio%20Code%202025-08-21%2014-44-10.mp4) 
 ---
 
 ## 📁 View the Code
-Click here to view the code: [Day8-CaesarCipher.py](./Day8-CaesarCipher.py)
+[Click here to view the code](./Day8-CaesarCipher.py)
