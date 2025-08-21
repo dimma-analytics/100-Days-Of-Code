@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 📊 [Day 7 – Python Budget Tracker App](./Day7-BudgetTracker)
+
+- **Mini Project:** A simple command-line finance tracker that helps users manage income and expenses directly from the terminal.
+- **Tools Used:** Python, loops, conditionals, lists, string formatting, user input
+- **What it Does:** Allows users to track income and expenses, view a summary, and list all transactions — with real-time balance updates
+- **What I Practiced:** `while` loops, list tracking, variable updates, menu-driven CLI design, and clean user interaction
+  
+---
+
 ### 📝 [Day 6 – CLI To-Do List App](./Day6-ToDoList) 
  
   - **Mini Project:** A simple command-line task manager that lets users add, view, mark as done, and delete tasks directly in the terminal.
