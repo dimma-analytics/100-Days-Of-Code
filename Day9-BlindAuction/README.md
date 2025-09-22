@@ -30,7 +30,7 @@ I built a simple command-line program that runs a blind auction. It collects bid
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](./Day9-BlindAuction.py)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day9-BlindAuction/Day9-BlindAuction.py%20-%20Visual%20Studio%20Code%202025-09-22%2006-44-16.mp4)  
 
 ---
 
