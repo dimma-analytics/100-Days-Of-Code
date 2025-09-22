@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🏆 [Day 9 – Blind Auction](./Day9-BlindAuction)
+
+- **Mini Project:** A command-line blind auction app that collects secret bids and announces the winner.
+- **Tools Used:** Python, dictionaries, loops, functions, nesting
+- **What it Does:** Stores bids in a dictionary, keeps the auction “blind” by clearing the screen after each entry, and determines the highest bidder
+- **What I Practiced:** Creating & updating dictionaries, nesting data structures, looping through dicts, modularizing code with functions
+
+---
+
 ### 🔐 [Day 8 – Caesar Cipher Encryptor](./Day8-CaesarCipher)
 
 - **Mini Project:** A Caesar Cipher tool that encrypts or decrypts text using letter shifting logic.
@@ -77,4 +86,3 @@ A beginner-friendly Python script that generates potential startup names based o
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chidimma-madu/)
 - [GitHub Portfolio](https://github.com/dimma-analytics)
-
