@@ -31,7 +31,7 @@ I built a simple command-line **Calculator** that can perform addition, subtract
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](./Day10-Calculator.py)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day10-Calculator/%E2%97%8F%20Day10-Calculator.py%20-%20Visual%20Studio%20Code%202025-09-23%2005-25-48.mp4)  
 
 ---
 
