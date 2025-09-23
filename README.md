@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🧮 [Day 10 – Calculator](./Day10-Calculator)
+
+- **Mini Project:** A command-line calculator that performs addition, subtraction, multiplication, and division.  
+- **Tools Used:** Python, functions, loops, return statements  
+- **What it Does:** Lets the user choose an operation, inputs numbers, returns the result, and allows continuous calculations until the user decides to quit.  
+- **What I Practiced:** Creating functions with outputs, reusing return values, building modular reusable code, and looping for continuous calculations.  
+
+---
+
 ### 🏆 [Day 9 – Blind Auction](./Day9-BlindAuction)
 
 - **Mini Project:** A command-line blind auction app that collects secret bids and announces the winner.
