@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🃏 [Day 11 – Blackjack Game](./Day11-BlackjackGame)
+
+- **Mini Project:** A simple Blackjack card game where the user plays against the computer.  
+- **Tools Used:** Python, functions, return statements, loops, conditionals, random module  
+- **What it Does:** Deals cards, calculates scores using Blackjack rules, lets the player draw or pass, and compares scores to determine the winner.  
+- **What I Practiced:** Breaking down big projects into smaller steps, using functions with returns, handling multiple conditions, and structuring game logic.  
+
+---
+
 ### 🧮 [Day 10 – Calculator](./Day10-Calculator)
 
 - **Mini Project:** A command-line calculator that performs addition, subtraction, multiplication, and division.  
