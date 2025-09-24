@@ -31,7 +31,7 @@ I built a simple **Blackjack Game** that simulates playing cards between a user 
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day11-BlackjackGame/●%20Day11-BlackjackGame.py%20-%20Visual%20Studio%20Code.mp4)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day11-BlackjackGame/%E2%97%8F%20Day11-BlackjackGame.py%20-%20Visual%20Studio%20Code%202025-09-24%2005-06-56.mp4)  
 
 ---
 
