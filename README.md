@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🎯 [Day 12 – Number Guessing Game](./Day12-NumberGuessingGame)  
+
+- **Mini Project:** A number guessing game where the user tries to guess a randomly generated number.  
+- **Tools Used:** Python, functions, conditionals, loops, random module, scope  
+- **What it Does:** Generates a random number, lets the player choose difficulty, gives limited lives, provides feedback (too high/too low), and ends when the number is guessed or lives run out.  
+- **What I Practiced:** Understanding scope (local vs global variables), using constants, managing game flow, organizing logic with functions, and building confidence by solving the project independently.  
+
+---
+
 ### 🃏 [Day 11 – Blackjack Game](./Day11-BlackjackGame)
 
 - **Mini Project:** A simple Blackjack card game where the user plays against the computer.  
