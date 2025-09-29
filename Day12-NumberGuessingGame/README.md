@@ -31,6 +31,9 @@ I built a fun **Number Guessing Game** where the player tries to guess a randoml
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day12-NumberGuessingGame/%E2%97%8F%20Day12-NumberGuessingGame.py%20-%20Visual%20Studio%20Code%202025-09-29%2005-36-11.mp4)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day12-NumberGuessingGame/Day12-NumberGuessingGame.py%20-%20Visual%20Studio%20Code%202025-09-29%2005-32-27.mp4)  
 
 ---
+
+## 📁 View the Code  
+[Click here to view the code](./Day12-NumberGuessingGame.py)  
