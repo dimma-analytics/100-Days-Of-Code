@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🎯 [Day 14 – Higher or Lower Game](./Day14-HigherOrLowerGame)  
+
+- **Mini Project:** A Higher or Lower game where the player guesses which celebrity/account has more followers.  
+- **Tools Used:** Python, functions, conditionals, loops, random module, dictionaries  
+- **What it Does:** Displays two accounts for comparison, asks the player to choose, tracks the score for correct guesses, and ends the game when the player guesses wrong.  
+- **What I Practiced:** Working with dictionaries and lists, organizing code with functions, combining multiple concepts (randomization, scope, loops, conditionals), and structuring logic for readability and reusability.  
+
+---
+
 ### 🎯 [Day 13 – Debugging Practice](./Day13-Debugging)  
 
 - **Mini Project:** Debugging exercises to identify and fix broken Python code.  
