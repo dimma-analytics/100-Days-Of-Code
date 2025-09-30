@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🎯 [Day 14 – Higher or Lower Game](./Day14-HigherOrLowerGame)  
+### ↕️ [Day 14 – Higher or Lower Game](./Day14-HigherOrLowerGame)  
 
 - **Mini Project:** A Higher or Lower game where the player guesses which celebrity/account has more followers.  
 - **Tools Used:** Python, functions, conditionals, loops, random module, dictionaries  
@@ -16,7 +16,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🎯 [Day 13 – Debugging Practice](./Day13-Debugging)  
+### 🐞 [Day 13 – Debugging Practice](./Day13-Debugging)  
 
 - **Mini Project:** Debugging exercises to identify and fix broken Python code.  
 - **Tools Used:** Python, print statements, error messages, logic tracing  
