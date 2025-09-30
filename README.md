@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🎯 [Day 13 – Debugging Practice](./Day13-Debugging)  
+
+- **Mini Project:** Debugging exercises to identify and fix broken Python code.  
+- **Tools Used:** Python, print statements, error messages, logic tracing  
+- **What it Does:** Focuses on finding and fixing common errors such as `IndentationError`, `TypeError`, `IndexError`, and `KeyError`.  
+- **What I Practiced:** Reading error messages, using print statements for debugging, identifying logic errors, applying rubber duck debugging, and building a structured problem-solving mindset.  
+
+---
+
 ### 🎯 [Day 12 – Number Guessing Game](./Day12-NumberGuessingGame)  
 
 - **Mini Project:** A number guessing game where the user tries to guess a randomly generated number.  
