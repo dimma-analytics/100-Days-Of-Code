@@ -1,4 +1,4 @@
-# 🎯 Day 14 – Higher or Lower Game  
+# ↕️ Day 14 – Higher or Lower Game  
 
 This is my fourteenth mini project from the **100 Days of Code: Python Bootcamp**.  
 

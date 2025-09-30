@@ -1,4 +1,4 @@
-# 🎯 Day 13 – Debugging Practice  
+# 🐞 Day 13 – Debugging Practice  
 
 This is my thirteenth milestone from the **100 Days of Code: Python Bootcamp**.  
 
