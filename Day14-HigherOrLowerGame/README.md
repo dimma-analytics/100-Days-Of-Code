@@ -30,9 +30,10 @@ I built the classic **Higher or Lower Game**, where the player has to guess whic
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day14-HigherOrLowerGame/Day14-HigherOrLowerGame.py%20-%20Visual%20Studio%20Code%202025-09-30.mp4)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day14-HigherOrLowerGame/%E2%97%8F%20Day14-HigherOrLowerGame.py%20-%20Visual%20Studio%20Code%202025-09-30%2005-10-11.mp4)  
 
 ---
 
 ## 📁 View the Code  
-[Click here to view the code](./Day14-HigherOrLowerGame.py)  
+[Click here to view the code](./Day14-HigherOrLowerGame.py)
+[Click here to view the data list](./Day14_game_data.py)   
