@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### ☕ [Day 15 – Coffee Machine](./Day15-CoffeeMachine)  
+
+- **Mini Project:** A Coffee Machine simulation that lets users order drinks, processes payments, and manages resources.  
+- **Tools Used:** Python, functions, conditionals, loops, dictionaries  
+- **What it Does:** Displays a drink menu, checks resources, processes coins, gives change, serves drinks, and can be turned off.  
+- **What I Practiced:** Using dictionaries for data storage, breaking code into functions, handling user input, managing program flow with loops/conditions, and simulating a real-world system.  
+
+---
+
 ### ↕️ [Day 14 – Higher or Lower Game](./Day14-HigherOrLowerGame)  
 
 - **Mini Project:** A Higher or Lower game where the player guesses which celebrity/account has more followers.  
