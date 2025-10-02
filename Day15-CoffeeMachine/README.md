@@ -32,7 +32,7 @@ I built a **Coffee Machine Simulation**, where the program acts like a real coff
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day15-CoffeeMachine/Day15-Demo.mp4)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day15-CoffeeMachine/%E2%97%8F%20Day15-CoffeeMachine.py%20-%20Visual%20Studio%20Code%202025-10-02%2016-24-16.mp4)  
 
 ---
 
