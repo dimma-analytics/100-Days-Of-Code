@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🏗️ [Day 16 – Object-Oriented Programming (OOP)](./Day16-OOP)  
+
+- **Mini Project:** Practicing with classes and objects using Python’s built-in `turtle` module and the external `prettytable` package.  
+- **Tools Used:** Python, PrettyTable, Turtle, Visual Studio Code  
+- **What it Does:** Introduces Object-Oriented Programming concepts like classes, objects, methods, attributes, and constructors (`__init__`). Demonstrates how to organize code more efficiently and use OOP in real-world scenarios.  
+- **What I Learned:** Difference between procedural and object-oriented programming, creating and using classes, working with attributes and methods, understanding constructors, using external packages, and reading documentation.  
+
+---
+
 ### ☕ [Day 15 – Coffee Machine](./Day15-CoffeeMachine)  
 
 - **Mini Project:** A Coffee Machine simulation that lets users order drinks, processes payments, and manages resources.  
