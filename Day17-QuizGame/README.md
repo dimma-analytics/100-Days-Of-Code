@@ -33,9 +33,13 @@ I built a **Quiz Game** using the principles of **Object-Oriented Programming (O
 ---
 
 ## 👀 Preview  
-[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/%E2%97%8F%20Day17-QuizGame.py%20-%20Visual%20Studio%20Code%202025-10-05%2018-09-43.mp4)  
+[Click here to view how it works](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/main.py%20-%20quiz-game-start%20-%20Visual%20Studio%20Code%202025-10-05%2018-45-42.mp4)  
 
 ---
 
 ## 📁 View the Code  
-[Click here to view the code](./Day17-QuizGame.py)
+- question_model.py — defines the Question class  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/Day17-quiz-game-start/question_model.py)
+- quiz_brain.py — defines the QuizBrain (game engine) class  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/Day17-quiz-game-start/quiz_brain.py)
+- data.py — question data (list of dicts)  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/Day17-quiz-game-start/data.py)
+- main.py — program entry point and runner  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day17-QuizGame/Day17-quiz-game-start/main.py)
+
