@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🧩 [Day 17 – Quiz Game](./Day17-QuizGame)  
+
+- **Mini Project:** A Quiz Game built using Object-Oriented Programming (OOP) principles. The program asks a series of questions, checks the user’s answers, keeps score, and displays the final result.  
+- **Tools Used:** Python, classes, objects, methods, loops, conditionals  
+- **What it Does:** Loads a set of questions, prompts the user for answers, checks correctness, tracks score, and ends the game with a final score report.  
+- **What I Practiced:** Creating and using classes, writing constructors (`__init__`), defining methods, using the `self` keyword, connecting multiple classes, and organizing code into separate files for better readability and structure.  
+
+---
+
 ### 🏗️ [Day 16 – Object-Oriented Programming (OOP)](./Day16-OOP)  
 
 - **Mini Project:** Practicing with classes and objects using Python’s built-in `turtle` module and the external `prettytable` package.  
