@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🎨 [Day 18 – Hirst Painting](./Day18-HirstPainting)  
+
+- **Mini Project:** A Python turtle art program that recreates Damien Hirst’s iconic spot paintings using randomly selected colors from a palette.  
+- **Tools Used:** Python, turtle, colorgram, loops, randomization  
+- **What it Does:** Extracts colors from an image, generates a color palette, and draws a grid of colorful dots to form a unique artwork every run.  
+- **What I Practiced:** Using the turtle graphics library, working with RGB color tuples, looping through coordinates, applying randomization, and building creative visuals with Python.  
+
+---
+
 ### 🧩 [Day 17 – Quiz Game](./Day17-QuizGame)  
 
 - **Mini Project:** A Quiz Game built using Object-Oriented Programming (OOP) principles. The program asks a series of questions, checks the user’s answers, keeps score, and displays the final result.  
