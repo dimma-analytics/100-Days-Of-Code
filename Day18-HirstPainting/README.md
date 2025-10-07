@@ -30,7 +30,7 @@ I recreated a **Hirst Spot Painting** using Python’s `turtle` graphics module.
 ---
 
 ## 👀 Preview  
-[Click here to view how it looks](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day18-HirstPainting/hirst-preview.png)  
+[Click here to view how it looks](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day18-HirstPainting/Day18.png)  
 
 ---
 
