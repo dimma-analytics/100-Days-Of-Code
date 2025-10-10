@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🏁 [Day 19 – Turtle Race](./Day19-TurtleRace)  
+
+- **Mini Project:** A colorful turtle race game built with Python’s `turtle` module where players bet on which turtle will win the race.  
+- **Tools Used:** Python, turtle, random, loops, conditionals  
+- **What it Does:** Displays multiple turtles that race across the screen at random speeds, determines the winner, and checks if the user’s bet was correct.  
+- **What I Practiced:** Object-Oriented Programming (OOP), working with multiple objects, using loops and conditionals for game logic, handling user input, and building interactive programs with Python.  
+
+---
+
 ### 🎨 [Day 18 – Hirst Painting](./Day18-HirstPainting)  
 
 - **Mini Project:** A Python turtle art program that recreates Damien Hirst’s iconic spot paintings using randomly selected colors from a palette.  
