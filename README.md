@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🐍 [Day 20 & 21 – The Snake Game](./Day20-21-SnakeGame)  
+### 🐍 [Day 20 & 21 – The Snake Game](./Day20&21-SnakeGame)  
 
 - **Mini Project:** A classic Snake Game built using Python’s `turtle` module, where the player controls a snake to eat food, grow longer, and avoid collisions with the walls or itself.  
 - **Tools Used:** Python, turtle, time, random, loops, conditionals, classes  

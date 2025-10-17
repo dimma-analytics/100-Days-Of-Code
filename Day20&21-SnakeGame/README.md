@@ -31,19 +31,19 @@ I built the classic **Snake Game** using Python’s `turtle` graphics module. Th
 ---
 
 ## 👀 Preview  
-![Snake Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20-21-SnakeGame/Day20-21.png)  
+![Snake Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621.png)  
 
 ---
 
 ## 📁 View the Code  
 - **snake.py** — defines the `Snake` class and handles movement, direction changes, and growth  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20-21-SnakeGame/snake.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/snake.py)  
 
 - **food.py** — defines the `Food` class that randomly generates food for the snake to eat  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20-21-SnakeGame/food.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/food.py)  
 
 - **scoreboard.py** — defines the `Scoreboard` class that tracks and displays the score and game-over message  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20-21-SnakeGame/scoreboard.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/scoreboard.py)  
 
 - **main.py** — the main game file that connects all classes and runs the game loop  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20-21-SnakeGame/main.py)
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/main.py)
