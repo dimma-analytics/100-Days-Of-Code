@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🏓 [Day 22 – The Pong Game](./Day22-PongGame)  
+
+- **Mini Project:** A two-player Pong Game built using Python’s `turtle` module, where players control paddles to bounce a moving ball and compete for points.  
+- **Tools Used:** Python, turtle, time, loops, conditionals, classes  
+- **What it Does:** Simulates classic Pong gameplay with two paddles and a ball, detects collisions with walls and paddles, updates the score when a player misses, and resets the ball automatically to continue play.  
+- **What I Practiced:** Object-Oriented Programming (OOP) with multiple classes, collision detection, event handling for paddle movement, game loop management, and screen updates for smooth animation.  
+
+---
+
 ### 🐍 [Day 20 & 21 – The Snake Game](./Day20&21-SnakeGame)  
 
 - **Mini Project:** A classic Snake Game built using Python’s `turtle` module, where the player controls a snake to eat food, grow longer, and avoid collisions with the walls or itself.  
