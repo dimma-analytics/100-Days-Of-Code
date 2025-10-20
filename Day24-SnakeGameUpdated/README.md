@@ -32,16 +32,16 @@ In this update, I revisited my **Snake Game** from Day 20–21 and added a new f
 
 ## 📁 View the Code  
 - **scoreboard.py** — updated to include file read/write logic for high score  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameHighScore/Day24-SnakeGameHighScore/scoreboard.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameUpdated/Day24-SnakeGameUpdated/scoreboard.py)  
 
 - **main.py** — runs the main game loop and integrates the updated scoreboard  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameHighScore/Day24-SnakeGameHighScore/main.py) 
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameUpdated/Day24-SnakeGameUpdated/main.py) 
 
 - **snake.py** — defines the `Snake` class and handles movement, direction changes, and growth  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/snake.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameUpdated/Day24-SnakeGameUpdated/snake.py)  
 
 - **food.py** — defines the `Food` class that randomly generates food for the snake to eat  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day20%2621-SnakeGame/Day20%2621-SnakeGame/food.py)   
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day24-SnakeGameUpdated/Day24-SnakeGameUpdated/food.py)   
 
 ---
 

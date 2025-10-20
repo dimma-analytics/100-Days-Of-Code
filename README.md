@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🐍 [Day 24 – Snake Game: High Score Update](./Day24-SnakeGameHighScore)  
+### 🐍 [Day 24 – Snake Game: High Score Update](./Day24-SnakeGameUpdated)  
 
 - **Mini Project:** An upgraded version of the classic Snake Game, enhanced with a feature that saves and retrieves the player’s high score using file handling.  
 - **Tools Used:** Python, turtle, time, file handling (read/write), classes  
