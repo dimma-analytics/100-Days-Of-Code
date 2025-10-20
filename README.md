@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🐍 [Day 24 – Snake Game: High Score Update](./Day24-SnakeGameHighScore)  
+
+- **Mini Project:** An upgraded version of the classic Snake Game, enhanced with a feature that saves and retrieves the player’s high score using file handling.  
+- **Tools Used:** Python, turtle, time, file handling (read/write), classes  
+- **What it Does:** Tracks both current and high scores, stores the high score in a text file (`data.txt`), and loads it automatically each time the game starts. The score updates only when a new record is achieved.  
+- **What I Practiced:** Implementing persistent data storage using file I/O, integrating file handling within an OOP project, and refining code organization for real-world application behavior.  
+
+---
+
 ### 🐢 [Day 23 – The Turtle Crossing Game](./Day23-TurtleCrossingGame)  
 
 - **Mini Project:** A fun and challenging Turtle Crossing Game inspired by *Frogger*, where the player helps a turtle cross a busy road without getting hit by moving cars.  
