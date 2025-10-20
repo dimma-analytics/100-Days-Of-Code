@@ -31,22 +31,22 @@ In this project, I built the **Turtle Crossing Game**, inspired by the classic a
 ---
 
 ## 👀 Preview  
-![Turtle Crossing Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossing/Day23.png)  
+![Turtle Crossing Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossingGame/Day23.png)  
 
 ---
 
 ## 📁 View the Code  
 - **player.py** — defines the `Player` class and controls turtle movement  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossing/Day23-TurtleCrossing/player.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossingGame/Day23-turtle-crossing-start/player.py)  
 
 - **car_manager.py** — defines the `CarManager` class, handles car generation and movement  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossing/Day23-TurtleCrossing/car_manager.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossingGame/Day23-turtle-crossing-start/car_manager.py)  
 
 - **scoreboard.py** — defines the `Scoreboard` class that tracks and displays the level  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossing/Day23-TurtleCrossing/scoreboard.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossingGame/Day23-turtle-crossing-start/scoreboard.py)  
 
 - **main.py** — the main game file that brings everything together and runs the game loop  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossing/Day23-TurtleCrossing/main.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day23-TurtleCrossingGame/Day23-turtle-crossing-start/main.py)  
 
 ---
 

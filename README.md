@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🐢 [Day 23 – The Turtle Crossing Game](./Day23-TurtleCrossing)  
+### 🐢 [Day 23 – The Turtle Crossing Game](./Day23-TurtleCrossingGame)  
 
 - **Mini Project:** A fun and challenging Turtle Crossing Game inspired by *Frogger*, where the player helps a turtle cross a busy road without getting hit by moving cars.  
 - **Tools Used:** Python, turtle, time, random, loops, conditionals, classes  
