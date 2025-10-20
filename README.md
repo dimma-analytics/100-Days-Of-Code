@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🐢 [Day 23 – The Turtle Crossing Game](./Day23-TurtleCrossing)  
+
+- **Mini Project:** A fun and challenging Turtle Crossing Game inspired by *Frogger*, where the player helps a turtle cross a busy road without getting hit by moving cars.  
+- **Tools Used:** Python, turtle, time, random, loops, conditionals, classes  
+- **What it Does:** The turtle moves upward each time a key is pressed, while cars continuously move across the screen. The game increases in difficulty each time the turtle successfully reaches the other side. Collision with a car ends the game.  
+- **What I Practiced:** Implementing OOP with multiple classes (`Player`, `CarManager`, `Scoreboard`), managing screen updates and refresh rates, using randomization for obstacle generation, collision detection, and scaling game difficulty based on player progress.  
+
+---
+
 ### 🏓 [Day 22 – The Pong Game](./Day22-PongGame)  
 
 - **Mini Project:** A two-player Pong Game built using Python’s `turtle` module, where players control paddles to bounce a moving ball and compete for points.  
