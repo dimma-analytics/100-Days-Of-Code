@@ -1,4 +1,4 @@
-# 🐍 Day 25 – Nigerian States Game
+# 🗺️ Day 25 – Nigerian States Game
 
 This is my twenty-fifth mini project from the **100 Days of Code: Python Bootcamp**.  
 
