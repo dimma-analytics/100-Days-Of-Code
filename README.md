@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🐍 [Day 25 – Nigerian States Game](./Day25-NigerianStatesGame)  
+### 🗺️ [Day 25 – Nigerian States Game](./Day25-StateGame)  
 
 - **Mini Project:** A geography game where players guess all 36 Nigerian states plus the FCT. Correct guesses display the state name on a map of Nigeria.  
 - **Tools Used:** Python, turtle, pandas, CSV files  

@@ -31,19 +31,19 @@ In this project, I created a **Nigerian States Game**. The game challenges playe
 ---
 
 ## 👀 Preview  
-![Nigerian States Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-NigerianStatesGame/Day25.png)  
+![Nigerian States Game Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-StateGame/Day25.png)  
 
 ---
 
 ## 📁 View the Code  
 - **37_states.csv** — contains all Nigerian states with `(x, y)` coordinates  
-  [Click here to view the file](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-NigerianStatesGame/nigerian_states.csv)  
+  [Click here to view the file](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-StateGame/Day25-StatesGame/37_states.csv)  
 
 - **main.py** — the main game file that runs the states guessing game  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-NigerianStatesGame/game.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-StateGame/Day25-StatesGame/main.py)  
 
 - **map_of_Nigeria.gif** — the map image used as the game background  
-  [Click here to view the image](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-NigerianStatesGame/nigeria_map.png)  
+  [Click here to view the image](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day25-StateGame/Day25-StatesGame/map_of_Nigeria.gif)  
 
 ---
 
