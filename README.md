@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🐍 [Day 25 – Nigerian States Game](./Day25-NigerianStatesGame)  
+
+- **Mini Project:** A geography game where players guess all 36 Nigerian states plus the FCT. Correct guesses display the state name on a map of Nigeria.  
+- **Tools Used:** Python, turtle, pandas, CSV files  
+- **What it Does:** Prompts the player to type state names, checks answers against a CSV of states and coordinates, and dynamically writes correct guesses on the Nigerian map. Tracks which states have been guessed and provides a list of missing states when the player exits.  
+- **What I Practiced:** Reading and managing data with pandas, handling user input, dynamically updating a Turtle map, customizing a project to local geography, and applying OOP principles for clean code structure.  
+
+---
+
 ### 🐍 [Day 24 – Snake Game: High Score Update](./Day24-SnakeGameUpdated)  
 
 - **Mini Project:** An upgraded version of the classic Snake Game, enhanced with a feature that saves and retrieves the player’s high score using file handling.  
