@@ -31,16 +31,16 @@ In this project, I created a **NATO Phonetic Alphabet Converter**. It takes any 
 ---
 
 ## 👀 Preview  
-![NATO Phonetic Alphabet Project Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOAlphabet/Day26.png)  
+![NATO Phonetic Alphabet Project Screenrecording](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOalphabet/main.py%20-%20Day26-NATOalphabet%20-%20Visual%20Studio%20Code%202025-10-25%2012-52-04.mp4)  
 
 ---
 
 ## 📁 View the Code  
 - **nato_phonetic_alphabet.csv** — contains all letters and their corresponding NATO codes  
-  [Click here to view the file](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOAlphabet/nato_phonetic_alphabet.csv)  
+  [Click here to view the file](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOalphabet/Day26-NATOalphabet/nato_phonetic_alphabet.csv)  
 
 - **main.py** — the main file that runs the NATO phonetic converter  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOAlphabet/main.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day26-NATOalphabet/Day26-NATOalphabet/main.py)  
 
 ---
 

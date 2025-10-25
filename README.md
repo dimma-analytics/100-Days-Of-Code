@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🔤 [Day 26 – NATO Phonetic Alphabet Project](./Day26-NATOAlphabet)  
+### 🔤 [Day 26 – NATO Phonetic Alphabet Project](./Day26-NATOalphabet)  
 
 - **Mini Project:** A word converter that transforms any input word into its corresponding **NATO phonetic alphabet** (e.g., “A” → “Alpha”, “B” → “Bravo”).  
 - **Tools Used:** Python, pandas, CSV files  
