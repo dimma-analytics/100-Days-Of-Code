@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🔤 [Day 26 – NATO Phonetic Alphabet Project](./Day26-NATOAlphabet)  
+
+- **Mini Project:** A word converter that transforms any input word into its corresponding **NATO phonetic alphabet** (e.g., “A” → “Alpha”, “B” → “Bravo”).  
+- **Tools Used:** Python, pandas, CSV files  
+- **What it Does:** Reads data from a CSV file containing the NATO phonetic alphabet, creates a dictionary using dictionary comprehension, and converts user input into a list of phonetic code words.  
+- **What I Practiced:** List and dictionary comprehensions, iterating through pandas DataFrames, reading CSV files, handling user input, and performing data transformations efficiently.  
+
+---
+
 ### 🗺️ [Day 25 – Nigerian States Game](./Day25-StateGame)  
 
 - **Mini Project:** A geography game where players guess all 36 Nigerian states plus the FCT. Correct guesses display the state name on a map of Nigeria.  
