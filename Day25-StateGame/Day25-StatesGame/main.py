@@ -17,7 +17,7 @@ guessed_states = []
 
 
 
-while len(guessed_states) < 50:
+while len(guessed_states) < 37:
     answer_state = screen.textinput(title=f"{len(guessed_states)}/37 States Correct", prompt="What's another state's name?").title()
     
     if answer_state == "Exit":
