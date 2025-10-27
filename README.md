@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🧮 [Day 27 – Mile to Kilometer Converter](./Day27-MileToKmConverter)  
+
+- **Mini Project:** A simple **GUI converter app** that takes input in miles and converts it to kilometers using the **Tkinter** library.  
+- **Tools Used:** Python, Tkinter  
+- **What it Does:** Creates an interactive graphical window with input fields, labels, and a “Calculate” button. Converts miles to kilometers (1 mile = 1.609 km) and dynamically updates the output label.  
+- **What I Practiced:** GUI programming with Tkinter, understanding `*args` and `**kwargs`, event-driven functions, widget configuration, and layout management using `.grid()` and `.config()`.  
+
+---
+
 ### 🔤 [Day 26 – NATO Phonetic Alphabet Project](./Day26-NATOalphabet)  
 
 - **Mini Project:** A word converter that transforms any input word into its corresponding **NATO phonetic alphabet** (e.g., “A” → “Alpha”, “B” → “Bravo”).  
