@@ -32,10 +32,10 @@ It’s a beginner-friendly graphical user interface (GUI) project that takes a n
 ---
 
 ## 👀 Preview  
-![Mile to Km Converter Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day27-MileToKmConverter/Day27.png)  
+![Mile to Km Converter Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day27-MileToKilometerConverter/Day27.png)  
 
 ---
 
 ## 📁 View the Code  
-- **main.py** — defines the GUI window, widgets, and conversion logic  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day27-MileToKmConverter/main.py)
+- **Day27-mile_to_kilo_converter.py** — defines the GUI window, widgets, and conversion logic  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day27-MileToKilometerConverter/Day27-mile_to_kilo_converter.py)

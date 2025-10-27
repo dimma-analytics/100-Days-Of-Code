@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🧮 [Day 27 – Mile to Kilometer Converter](./Day27-MileToKmConverter)  
+### 🧮 [Day 27 – Mile to Kilometer Converter](./Day27-MileToKilometerConverter)  
 
 - **Mini Project:** A simple **GUI converter app** that takes input in miles and converts it to kilometers using the **Tkinter** library.  
 - **Tools Used:** Python, Tkinter  
