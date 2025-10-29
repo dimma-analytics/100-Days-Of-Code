@@ -31,13 +31,13 @@ In this project, I built a **Pomodoro Timer App** using **Tkinter** — a produc
 ---
 
 ## 👀 Preview  
-![Study Buddy Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/Day28.png)  
+![Study Buddy Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/Screenshot%202025-10-29%20144053.png)  
 
 ---
 
 ## 📁 View the Code  
 - **main.py** — contains all the logic for the Pomodoro Timer  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/main.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/Day28-StudyBuddy/main.py)  
 
 - **tomato.png** — the image used for the timer’s visual background  
-  [Click here to view the image](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/tomato.png)  
+  [Click here to view the image](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day28-StudyBuddy/Day28-StudyBuddy/tomato.png)  
