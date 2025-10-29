@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### ⏰ [Day 28 – Study Buddy (Pomodoro Timer)](./Day28-StudyBuddy)  
+
+- **Mini Project:** A **Pomodoro Timer App** that helps improve focus and productivity by alternating between work and break sessions.  
+- **Tools Used:** Python, Tkinter, Math  
+- **What it Does:** Displays a visual tomato-themed timer that counts down for work and break intervals. Automatically switches between sessions and updates the label to show whether it’s “Work” or “Break” time.  
+- **What I Practiced:** GUI programming with Tkinter, using `after()` for timed callbacks, applying modulus logic (`%`) to manage session flow, formatting countdowns with `math.floor()`, and managing global variables for repetitive cycles.  
+
+---
+
 ### 🧮 [Day 27 – Mile to Kilometer Converter](./Day27-MileToKilometerConverter)  
 
 - **Mini Project:** A simple **GUI converter app** that takes input in miles and converts it to kilometers using the **Tkinter** library.  
