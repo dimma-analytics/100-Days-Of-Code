@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🔐 [Day 29 – Password Manager](./Day29-PasswordManager)  
+
+- **Mini Project:** A **Password Manager App** that generates strong, random passwords and securely saves login details for easy access.  
+- **Tools Used:** Python, Tkinter, JSON, Pyperclip, Random  
+- **What it Does:** Creates complex passwords, copies them automatically to the clipboard, and stores website, email, and password combinations in a JSON file for future retrieval.  
+- **What I Practiced:** GUI programming with Tkinter, file handling with JSON, clipboard operations using Pyperclip, random password generation, input validation, and error handling.  
+
+---
+
 ### ⏰ [Day 28 – Study Buddy (Pomodoro Timer)](./Day28-StudyBuddy)  
 
 - **Mini Project:** A **Pomodoro Timer App** that helps improve focus and productivity by alternating between work and break sessions.  
