@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🧩 [Day 30 – JSON & Error Handling](./Day30-PasswordManager)
+### 🧩 [Day 30 – JSON & Error Handling](./Day30-JSON&ErrorHandling)
 
 - **Mini Project:** Enhanced the Password Manager app with JSON data storage and robust error handling.  
 - **Tools Used:** Python (`tkinter`, `pyperclip`, `json`, `random`), Visual Studio Code  
