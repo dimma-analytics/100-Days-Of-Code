@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🧩 [Day 30 – JSON & Error Handling](./Day30-PasswordManager)
+
+- **Mini Project:** Enhanced the Password Manager app with JSON data storage and robust error handling.  
+- **Tools Used:** Python (`tkinter`, `pyperclip`, `json`, `random`), Visual Studio Code  
+- **What it Does:** Saves and retrieves password data using a JSON file, handles missing or empty files gracefully, prevents crashes, and allows users to search for stored website credentials.  
+- **What I Practiced:** Handling missing/empty JSON files with `try-except`, debugging `json.decoder.JSONDecodeError`, managing nested dictionaries, improving app stability, refining GUI interactions, and ensuring smooth user experience even when data is unavailable.
+
+---
+
 ### 🔐 [Day 29 – Password Manager](./Day29-PasswordManager)  
 
 - **Mini Project:** A **Password Manager App** that generates strong, random passwords and securely saves login details for easy access.  
