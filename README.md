@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🧮 [Day 31 – Flashcard App](./Day31-FlashcardApp)
+### 🧮 [Day 31 – Flashcard App](./Day31-FlashCard)
 
 - **Mini Project:** Built a Flashcard App that helps users learn and memorize vocabulary through interactive flashcards.  
 - **Tools Used:** Python (`tkinter`, `pandas`, `random`), Visual Studio Code  

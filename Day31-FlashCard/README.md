@@ -31,15 +31,12 @@ In this project, I built a **Flashcard App** that helps users study and memorize
 ---
 
 ## 👀 Preview  
-![Flashcard App Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day31-FlashcardApp/Day31.png)  
+![Flashcard App Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day31-FlashCard/Day31.png)  
 
 ---
 
 ## 📁 View the Code  
 - **main.py** — main program file for the Flashcard App  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day31-FlashcardApp/Day31-FlashcardApp/main.py)  
-
-- **data/words_to_learn.csv** — updated word list file  
-  [Click here to view the file](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day31-FlashcardApp/Day31-FlashcardApp/data/words_to_learn.csv)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day31-FlashCard/Day31-FlashCard/main.py)   
 
 ---
