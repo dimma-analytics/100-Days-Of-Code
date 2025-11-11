@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🧮 [Day 31 – Flashcard App](./Day31-FlashcardApp)
+
+- **Mini Project:** Built a Flashcard App that helps users learn and memorize vocabulary through interactive flashcards.  
+- **Tools Used:** Python (`tkinter`, `pandas`, `random`), Visual Studio Code  
+- **What it Does:** Displays random flashcards with a word in one language, flips automatically after a few seconds to reveal the translation, and lets users mark words as “learned.” Progress is saved automatically to a CSV file for future sessions.  
+- **What I Practiced:** Building interactive GUIs with `tkinter`, using `pandas` for data handling, implementing timers and event-driven programming, manipulating data with Python, and saving user progress persistently.
+
+---
+
 ### 🧩 [Day 30 – JSON & Error Handling](./Day30-JSON&ErrorHandling)
 
 - **Mini Project:** Enhanced the Password Manager app with JSON data storage and robust error handling.  
