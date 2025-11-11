@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 📧 [Day 32 – Email Automation App](./Day32-EmailAutomation)
+### 📧 [Day 32 – Email Automation App](./Day32-BirthdayWisherAutomation)
 
 - **Mini Project:** Built an Email Automation App that sends personalized emails automatically through Python.  
 - **Tools Used:** Python (`smtplib`, `ssl`, `email`), Gmail App Passwords, Visual Studio Code  
