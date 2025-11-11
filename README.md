@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 📧 [Day 32 – Email Automation App](./Day32-EmailAutomation)
+
+- **Mini Project:** Built an Email Automation App that sends personalized emails automatically through Python.  
+- **Tools Used:** Python (`smtplib`, `ssl`, `email`), Gmail App Passwords, Visual Studio Code  
+- **What it Does:** Connects securely to Gmail’s SMTP server to send automated emails. Uses SSL encryption to protect login details and email content during transfer. This setup is ideal for sending daily reports, notifications, or updates without manual effort.  
+- **What I Practiced:** Understanding how email protocols work (SMTP), setting up secure connections with SSL/TLS, using Gmail app passwords for authentication, formatting and sending emails programmatically, and learning the difference between secure ports (465 vs. 587).  
+
+---
+
 ### 🧮 [Day 31 – Flashcard App](./Day31-FlashCard)
 
 - **Mini Project:** Built a Flashcard App that helps users learn and memorize vocabulary through interactive flashcards.  
