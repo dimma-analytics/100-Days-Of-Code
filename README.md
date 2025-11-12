@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+### 🛰️ [Day 33 – ISS Overhead Notifier](./Day33-ISSOverhead)
+
+- **Mini Project:** Built an ISS Overhead Notifier App that alerts the user via email when the International Space Station (ISS) is passing nearby and it’s dark enough to be visible.  
+- **Tools Used:** Python (`requests`, `smtplib`, `datetime`, `time`), Visual Studio Code  
+- **What it Does:** Uses the ISS location API to track the real-time position of the space station and a sunrise/sunset API to check whether it’s nighttime. When both conditions are met, it automatically sends an email notification so the user can step outside and spot the ISS in the sky.  
+- **What I Practiced:** Working with multiple public APIs, parsing JSON data, automating periodic checks using loops and timing, sending notifications via email, and combining logic from different data sources to create a functional automation project.
+
+---
+
 ### 📧 [Day 32 – Email Automation App](./Day32-BirthdayWisherAutomation)
 
 - **Mini Project:** Built an Email Automation App that sends personalized emails automatically through Python.  
