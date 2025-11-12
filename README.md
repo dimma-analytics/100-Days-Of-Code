@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-### 🛰️ [Day 33 – ISS Overhead Notifier](./Day33-ISSOverhead)
+### 🛰️ [Day 33 – ISS Overhead Notifier](./Day33-ISS_overhead)
 
 - **Mini Project:** Built an ISS Overhead Notifier App that alerts the user via email when the International Space Station (ISS) is passing nearby and it’s dark enough to be visible.  
 - **Tools Used:** Python (`requests`, `smtplib`, `datetime`, `time`), Visual Studio Code  
