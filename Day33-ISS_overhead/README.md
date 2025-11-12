@@ -32,6 +32,6 @@ In this project, I built an **ISS Overhead Notifier** — a program that automat
 
 ## 📁 View the Code  
 - **main.py** — main program file for the ISS Overhead Notifier  
-  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISSOverhead/main.py)  
+  [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSoverhead.py)  
 
 ---
