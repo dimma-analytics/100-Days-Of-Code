@@ -7,7 +7,7 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
-###🧠 [Day 34 – Quizzler App](./Day33-ISS_overhea)
+### 🧠 [Day 34 – Quizzler App](./Day34-QuizzlerApp)
 
 - **Mini Project:** Built a graphical True/False Quiz App that fetches trivia questions from an API and lets users answer them through an interactive Tkinter interface.
 - **Tools Used:** Python (tkinter, requests), Object-Oriented Programming, Visual Studio Code

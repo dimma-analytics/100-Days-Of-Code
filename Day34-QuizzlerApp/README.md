@@ -36,12 +36,18 @@ In this project, I built a **Quiz App** that pulls real True/False trivia questi
 ---
 
 ## 📁 View the Code
-- **data.py** — fetches the questions from the trivia API[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSoverhea.py)
-- **main.py** — ties all components together[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSoverhea.py)
-- **question_model.py** — defines the `Question` blueprint[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSovrhead.py)
-- **quiz_brain.py** — handles quiz logic and scoring[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSovrhead.py)
-- **ui.py** — builds the user interface[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSoerhead.py)
-- **images/** — contains the button images**[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day33-ISS_overhead/Day33-ISSovrhead.py)**
+- **data.py** — fetches the questions from the trivia API
+[Click here to view the code][https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/data.py)
+- **main.py** — ties all components together
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/main.py)
+- **question_model.py** — defines the `Question` blueprint
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/question_model.py)
+- **quiz_brain.py** — handles quiz logic and scoring
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/quiz_brain.py)
+- **ui.py** — builds the user interface
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/ui.py)
+- **images** — contains the button images
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/tree/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/images)
 
 ---
 
