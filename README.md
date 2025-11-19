@@ -7,6 +7,15 @@ Welcome to my 100-day Python learning journey! Every day, I’ll be solving begi
 
 ---
 
+###🧠 [Day 34 – Quizzler App](./Day33-ISS_overhea)
+
+- **Mini Project:** Built a graphical True/False Quiz App that fetches trivia questions from an API and lets users answer them through an interactive Tkinter interface.
+- **Tools Used:** Python (tkinter, requests), Object-Oriented Programming, Visual Studio Code
+- **What it Does:** Pulls 10 random True/False questions from the Open Trivia Database API, displays them one by one in a GUI, allows the user to answer using True/False buttons, gives instant feedback with color changes (green for correct, red for incorrect), updates the score in real time, and ends the quiz gracefully when all questions are answered.
+- **What I Practiced:** Connecting backend logic (QuizBrain class) with a frontend GUI, working with APIs and JSON data, managing quiz flow and scoring using OOP, designing interactive layouts in Tkinter, handling button clicks and timed UI updates, and combining multiple Python files into a well-structured project.
+
+---
+
 ### 🛰️ [Day 33 – ISS Overhead Notifier](./Day33-ISS_overhead)
 
 - **Mini Project:** Built an ISS Overhead Notifier App that alerts the user via email when the International Space Station (ISS) is passing nearby and it’s dark enough to be visible.  
