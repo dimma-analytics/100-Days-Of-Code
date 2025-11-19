@@ -35,9 +35,14 @@ In this project, I built a **Quiz App** that pulls real True/False trivia questi
 
 ---
 
+## 👀 Preview  
+![Trivia Quiz Screenshot](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34.png) 
+
+---
+
 ## 📁 View the Code
 - **data.py** — fetches the questions from the trivia API
-[Click here to view the code][https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/data.py)
+[Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/data.py)
 - **main.py** — ties all components together
 [Click here to view the code](https://github.com/dimma-analytics/100-Days-Of-Code/blob/main/Day34-QuizzlerApp/Day34-QuizzlerAapp/main.py)
 - **question_model.py** — defines the `Question` blueprint
